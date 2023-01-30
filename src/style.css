@@ -322,20 +322,20 @@
 
 #dide {
   position: absolute;
-  width: 900px;
-  height: 600px;
-  left: 200px;
+  width: 800px;
+  height: 450px;
+  left: 300px;
   top: 50px;
   border: 4px white solid;
-  background-image: url("arin.jpg");
+  background-image: url("bcd.jpg");
   background-size: cover;
-  font-size: 55px;
+  font-size: 45px;
   font-weight: bolder;
-  font-family: 'Rowdies', cursive;
+  font-family: Malgun Gothic;
   color: white;
   text-align: center;
   vertical-align: middle;
-  padding-top: 20%;
+  padding-top: 15%;
 }
 
 #dide #israel {
@@ -355,8 +355,7 @@
   position: relative;
   width: 80%;
   height: 500px;
-  top: 650px;
-  background-color: none;
+  top: 550px;
 }
 
 .eleru {
@@ -366,21 +365,23 @@
   color: black;
   width: 60%;
   height: 100px;
-  left: 200px;
+  left: 250px;
   background-color: none;
   font-weight: bolder;
+  font-family: Malgun Gothic;
 }
 
 .panadol {
   position: absolute;
   display: inline-block;
   font-size: 20px;
-  color: black;
+  color: rgba(0, 0, 25, 0.8);
   width: 60%;
   height: 100px;
-  left: 200px;
+  left: 250px;
   background-color: none;
   top: 150px;
+  font-family: Candara;
 }
 
 #hoho {
@@ -410,10 +411,11 @@
 #AppTri2 {
   position: relative;
   display: inline-block;
-  background-color: antiquewhite;
-  top: 300px;
-  width: 80%;
-  height: 600px;
+  background-image: url("fgh.jpg");
+  background-size: 700px 400px;
+  top: 400px;
+  width: 60%;
+  height: 400px;
   font-size: 20px;
   margin-left: 100px;
 }
@@ -427,7 +429,8 @@
   height: 100px;
   left: 50px;
   background-color: none;
-  top: 70%;
+  top: 84%;
+  font-weight: bolder;
 }
 
 .panadol2 {
@@ -439,28 +442,32 @@
   height: 300px;
   left: 50px;
   background-color: none;
-  top: 74%;
+  font-family: candara;
+  top: 87%;
 }
 
 #think {
   position: relative;
   display: inline-block;
-  background-color: antiquewhite;
-  top: 300px;
-  width: 80%;
-  height: 300px;
+  background-image: url("ijk.jpg");
+  top: 400px;
+  width: 70%;
+  height: 400px;
   font-size: 20px;
   margin-left: 100px;
+  background-size: 70% 400px;
 }
 
 .eleru3 {
   position: relative;
-  width: 400px;
+  width: 700px;
   height: 500px;
   display: inline-block;
-  background-color: red;
-  font-size: 15px;
-  border: 1px black solid;
-  top: 700px;
+  background-color: none;
+  font-size: 20px;
+  border: 0px black solid;
+  top: 400px;
+  left: 50px;
+  font-family: candara;
 }
 /*# sourceMappingURL=style.css.map */

@@ -36,10 +36,9 @@ We come from a wide range of cultural and professional backgrounds.
 <div id="think"></div>
 <span class="eleru3" align="justify">  
  
- <b style="text-transform:uppercase;"><br><br> We believe it takes focus to create truly outstanding instruments.
+ <b style="text-transform:uppercase;font-size: 25px;font-family: Malgun Gothic;color:black;font-weight:bolder;"><br><br> We believe it takes focus to create truly outstanding instruments.
   We only work on a few products and we strive to make them great.
-  We are more than 350 people from 30 different countries divided between our 
-  headquarters in Berlin and our offices in Los Angeles and Tokyo.</b>
+ </b>
   <br><br>
   Most of us are active musicians, producers, and DJs, 
       and many of us use Live and Push every day. 

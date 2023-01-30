@@ -34,7 +34,7 @@ export default {
       else if(this.plus==false){
           this.ab="-";
           document.getElementById("iyami").style.top="440px";
-          document.getElementById("appTri").style.top="1300px;";
+          document.getElementById("appTri").style.top="1200px;";
           bus1.$emit('sleepof','this is what your code has');
 
 
